@@ -3,8 +3,6 @@ Collection of software used in the lab, as well as FOSS and free alternatives to
 
 ## Home brew
 
-* * *
-
 *Things that were developed and employed in the lab, which might be useful to others*
 ### [Open labware](https://badenlab.org/open-labware-net/)
 
@@ -27,8 +25,6 @@ Collection of software used in the lab, as well as FOSS and free alternatives to
 
 ## FOSS we use
 
-* * *
-
 ### Citation management
 
 - [Zotero](https://www.zotero.org) \- Free, open-source citation manager with syncing, tagging, PDF managmenet, Chrome plugin for archiving, and much more.
@@ -42,8 +38,6 @@ Collection of software used in the lab, as well as FOSS and free alternatives to
 - [QDSpy](https://github.com/eulerlab/QDSpy) \- Euler lab's software and accompanying Python library for designing and displaying stimuli.
 
 ## FOSS options/alternatives
-
-* * *
 
 ### Modelling
 - [scikit-learn](https://scikit-learn.org/stable/#) - Predictive data analysis and modelling tools built on [numpy](https://numpy.org/doc/stable/index.html), [SciPy](https://www.scipy.org/), and [Matplotlib](https://matplotlib.org/)
@@ -79,8 +73,6 @@ Collection of software used in the lab, as well as FOSS and free alternatives to
 - [Simplenote](https://simplenote.com/) \- Similar to [Joplin](https://joplinapp.org/) with in-built synchronisation, but somewhat utilitarian (e.g. no rich-text editor). 
 
 ## Free software 
-
-* * *
 
 ### Figures
 
