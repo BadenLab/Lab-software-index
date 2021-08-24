@@ -34,7 +34,7 @@ Collection of software used in the lab, as well as free-open source software (FO
 ### Data analysis
 
 - In Python
-	- [Statistics with numpy](https://numpy.org/doc/stable/reference/routines.statistics.html) \- Most basic and many advnaced statistical testing functions using [numpy](https://numpy.org/doc/stable/index.html). 
+	- [Statistics with numpy](https://numpy.org/doc/stable/reference/routines.statistics.html) \- Basic statistical functions (mainly descriptives) and some statistical testing functions using [numpy](https://numpy.org/doc/stable/index.html). 
 	- [pandas](https://pandas.pydata.org/docs/index.html "https://pandas.pydata.org/docs/index.html#") \- Ubiquitous data managment and analysis tools.
 	- [SciPy](https://www.scipy.org/) \- Ubiquitous, practical data analysis library.
 
