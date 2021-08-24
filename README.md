@@ -35,10 +35,15 @@ Collection of software used in the lab, as well as free-open source software (FO
 
 - [QDSpy](https://github.com/eulerlab/QDSpy) \- Euler lab's software and accompanying Python library for designing and displaying stimuli.
 
-## FOSS options/alternatives
+### Imaging
+
+- [ImageJ Fiji distribution](https://imagej.net/software/fiji/) - Distribution of [ImageJ2](https://imagej.net/software/imagej2/) for image analysis bundled with many useful plug-ins and extensive documentation.
 
 ### Modelling
 - [scikit-learn](https://scikit-learn.org/stable/#) - Predictive data analysis and modelling tools built on [numpy](https://numpy.org/doc/stable/index.html), [SciPy](https://www.scipy.org/), and [Matplotlib](https://matplotlib.org/)
+
+## FOSS options/alternatives
+
 
 ### Data analysis
 
@@ -49,7 +54,6 @@ Collection of software used in the lab, as well as free-open source software (FO
     - [pandas](https://pandas.pydata.org/docs/index.html "https://pandas.pydata.org/docs/index.html#") \- Ubiquitous data managment and analysis tools.
     - [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) \- python library which provides post-hoc testing, primarily using [DataFrames](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) from [pandas](https://pandas.pydata.org/docs/index.html).
     - [statannot](https://github.com/webermarcolivier/statannot) \- Simple and effective way to add stats bars to [Seaborn](https://seaborn.pydata.org/index.html) figures (may work with [Matplotlib](https://matplotlib.org/), with in-built stats test or by passing own P-values.
-- [ImageJ Fiji distribution](https://imagej.net/software/fiji/) - Distribution of [ImageJ2](https://imagej.net/software/imagej2/) for image analysis bundled with many useful plug-ins and extensive documentation.
 - [Julia](https://julialang.org/) \- Fully fledged, general-purpose programming language well-suited for data analysis and computational stuff.
 - [Jamovi](https://www.jamovi.org/) - SPSS-like, software for basic analysis, with simple plotting tools.
 - [JASP](https://jasp-stats.org/) - SPSS-like software featuring classic and Bayesian analysis.
