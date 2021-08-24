@@ -36,6 +36,7 @@ Collection of software used in the lab, as well as free-open source software (FO
 - In Python
 	- [Statistics with numpy](https://numpy.org/doc/stable/reference/routines.statistics.html) \- Most basic and many advnaced statistical testing functions using [numpy](https://numpy.org/doc/stable/index.html). 
 	- [pandas](https://pandas.pydata.org/docs/index.html "https://pandas.pydata.org/docs/index.html#") \- Ubiquitous data managment and analysis tools.
+	- [SciPy](https://www.scipy.org/) \- Ubiquitous, practical data analysis library.
 
 ### Stimulus design
 
@@ -46,7 +47,7 @@ Collection of software used in the lab, as well as free-open source software (FO
 - [ImageJ Fiji distribution](https://imagej.net/software/fiji/) - Distribution of [ImageJ2](https://imagej.net/software/imagej2/) for image analysis bundled with many useful plug-ins and extensive documentation.
 
 ### Modelling
-- [scikit-learn](https://scikit-learn.org/stable/#) - Predictive data analysis and modelling tools built on [numpy](https://numpy.org/doc/stable/index.html), [SciPy](https://www.scipy.org/), and [Matplotlib](https://matplotlib.org/)
+- [scikit-learn](https://scikit-learn.org/stable/#) - Predictive data analysis and modelling tools for Python built on [numpy](https://numpy.org/doc/stable/index.html), [SciPy](https://www.scipy.org/), and [Matplotlib](https://matplotlib.org/)
 
 ## FOSS options/alternatives
 
@@ -55,7 +56,6 @@ Collection of software used in the lab, as well as free-open source software (FO
 
 - In Python
     - [Pingouin](https://pingouin-stats.org/index.html) \- Advanced but easy-to-use, open-source, Python library for statistical testing and analysis.
-    - [SciPy](https://www.scipy.org/) \- Ubiquitous, practical data analysis library.
     - [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) \- python library which provides post-hoc testing, primarily using [DataFrames](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) from [pandas](https://pandas.pydata.org/docs/index.html).
     - [statannot](https://github.com/webermarcolivier/statannot) \- Simple and effective way to add stats bars to [Seaborn](https://seaborn.pydata.org/index.html) figures (may work with [Matplotlib](https://matplotlib.org/), with in-built stats test or by passing own P-values.
 - [Julia](https://julialang.org/) \- Fully fledged, general-purpose programming language well-suited for data analysis and computational stuff.
