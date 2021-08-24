@@ -49,16 +49,16 @@ Collection of software used in the lab, as well as free-open source software (FO
     - [pandas](https://pandas.pydata.org/docs/index.html "https://pandas.pydata.org/docs/index.html#") \- Ubiquitous data managment and analysis tools.
     - [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) \- python library which provides post-hoc testing, primarily using [DataFrames](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) from [pandas](https://pandas.pydata.org/docs/index.html).
     - [statannot](https://github.com/webermarcolivier/statannot) \- Simple and effective way to add stats bars to [Seaborn](https://seaborn.pydata.org/index.html) figures (may work with [Matplotlib](https://matplotlib.org/), with in-built stats test or by passing own P-values.
-- [R](https://www.r-project.org/) - Coding environment geared towards statistical computing and graphing
+- [R](https://www.r-project.org/) - Coding environment geared towards statistical computing and graphing.
 - [Julia](https://julialang.org/) \- Fully fledged, general-purpose programming language well-suited for data analysis and computational stuff.
-- [Jamovi](https://www.jamovi.org/) - SPSS-like, software for basic analysis, with simple plotting tools
-- [JASP](https://jasp-stats.org/) - SPSS-like software featuring classic and Bayesian analysis 
+- [Jamovi](https://www.jamovi.org/) - SPSS-like, software for basic analysis, with simple plotting tools.
+- [JASP](https://jasp-stats.org/) - SPSS-like software featuring classic and Bayesian analysis.
 
 ### Data visualisation
 
 - In Python
-	- [matplotlib](https://matplotlib.org/) - Comprehensive library for data visualisation 
-	- [seaborn](https://seaborn.pydata.org/) - Data visualisation library based on [matplotlib](https://matplotlib.org/) with better emphasis on aesthetics 
+	- [matplotlib](https://matplotlib.org/) - Comprehensive library for data visualisation.
+	- [seaborn](https://seaborn.pydata.org/) - Data visualisation library based on [matplotlib](https://matplotlib.org/) with better emphasis on aesthetics.
 
 
 ### Figures
