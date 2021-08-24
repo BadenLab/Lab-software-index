@@ -31,6 +31,12 @@ Collection of software used in the lab, as well as free-open source software (FO
 
 - [Atom](https://atom.io/) \- Lightweight, hackable (optional) text editor with syntax, plugins, etc.
 
+### Data analysis
+
+- In Python
+	- [Statistics with numpy](https://numpy.org/doc/stable/reference/routines.statistics.html) \- Most basic and many advnaced statistical testing functions using [numpy](https://numpy.org/doc/stable/index.html). 
+	- [pandas](https://pandas.pydata.org/docs/index.html "https://pandas.pydata.org/docs/index.html#") \- Ubiquitous data managment and analysis tools.
+
 ### Stimulus design
 
 - [QDSpy](https://github.com/eulerlab/QDSpy) \- Euler lab's software and accompanying Python library for designing and displaying stimuli.
@@ -50,8 +56,6 @@ Collection of software used in the lab, as well as free-open source software (FO
 - In Python
     - [Pingouin](https://pingouin-stats.org/index.html) \- Advanced but easy-to-use, open-source, Python library for statistical testing and analysis.
     - [SciPy](https://www.scipy.org/) \- Ubiquitous, practical data analysis library.
-    - [Statistics with numpy](https://numpy.org/doc/stable/reference/routines.statistics.html) \- Most basic and many advnaced statistical testing functions using [numpy](https://numpy.org/doc/stable/index.html).
-    - [pandas](https://pandas.pydata.org/docs/index.html "https://pandas.pydata.org/docs/index.html#") \- Ubiquitous data managment and analysis tools.
     - [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) \- python library which provides post-hoc testing, primarily using [DataFrames](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) from [pandas](https://pandas.pydata.org/docs/index.html).
     - [statannot](https://github.com/webermarcolivier/statannot) \- Simple and effective way to add stats bars to [Seaborn](https://seaborn.pydata.org/index.html) figures (may work with [Matplotlib](https://matplotlib.org/), with in-built stats test or by passing own P-values.
 - [Julia](https://julialang.org/) \- Fully fledged, general-purpose programming language well-suited for data analysis and computational stuff.
