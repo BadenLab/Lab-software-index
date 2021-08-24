@@ -21,8 +21,6 @@ Collection of software used in the lab, as well as free-open source software (FO
 - [Spatio-chromatic visual stimulator](https://elifesciences.org/articles/48779) \- An arbitrary-spectrum spatial visual simulator for vision research. Can be used with [QDSpy](https://github.com/eulerlab/QDSpy). [Repository](https://github.com/BadenLab/HyperspectralStimulator)
 - [Thunderdome](https://github.com/BadenLab/Thunderdome) \- An open source and versatile spatio-chromatic stimulation system for behavioural experiments for and by the lab
 
-# FOSS
-
 ## FOSS we use
 
 ### Citation management
