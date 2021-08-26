@@ -7,18 +7,18 @@ Collection of software used in the lab, as well as free-open source software (FO
 
 *3D print and build your own lab equipment! Links and resources to everything OpenLabware*
 
-- [2P microscopy](https://www.researchsquare.com/article/rs-121292/v1) \- Non-Telecentric 2P microscopy for 3D random access mesoscale imaging at single cell resolution [Repository](https://github.com/BadenLab/nTCscope)
+- [2P microscopy](https://www.researchsquare.com/article/rs-121292/v1) \- Non-Telecentric 2P microscopy for 3D random access mesoscale imaging at single cell resolution. [Repository](https://github.com/BadenLab/nTCscope).
 - [3D printed manipulator](https://www.thingiverse.com/thing:239105) \- Parametric 3 axis manipulator for use in a laboratory setting, with all files + insturctions for replication.
 - [3D printed pipettes](https://www.thingiverse.com/thing:255519) \- Customisable, high precision pipette, with all files + intstructions for replication.
-- [3D priting and electronics](https://github.com/BadenLab/3Dprinting_and_electronics) \- Repository for various 3D printed equipment and DIY electronics for and by the lab
-- [FlyPi](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702) \- The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, *Drosophila*, and *Caenorhabditis elegans*. Repository
+- [3D priting and electronics](https://github.com/BadenLab/3Dprinting_and_electronics) \- Repository for various 3D printed equipment and DIY electronics for and by the lab.
+- [FlyPi](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702) \- The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, *Drosophila*, and *Caenorhabditis elegans*. [Repository](https://github.com/amchagas/Flypi).
 - [In silico neuron model](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006760) \- Spikeling: A low-cost, Arduino-based hardware implementation of a spiking neuron for neuroscience teaching and outreach. [Repository](https://github.com/BadenLab/Spikeling)
 - [LED controller](https://www.sciencedirect.com/science/article/pii/S2468067220300365) \- LED Zapplin': An open source LED controller for arbitrary spectrum visual stimulation and optogenetics during 2-photon imaging. [Repository](https://github.com/BadenLab/LED-Zappelin)
-- [Natural imaging](https://www.nature.com/articles/s41598-019-47220-6) \- A low-cost hyperspectral scanner for natural imaging and the study of animal colour above and under water.
+- [Natural imaging](https://www.nature.com/articles/s41598-019-47220-6) \- A low-cost hyperspectral scanner for natural imaging and the study of animal colour above and under water. [Repository](https://github.com/BadenLab/Hyperspectral-scanner).
 - [Open visual stimulator](https://github.com/BadenLab/Open-Visual-Stimulator) \- An open source arbitrary-spectrum spatial visual stimulator for vision research.
-- [Pressure-injection system](https://www.nature.com/articles/s41598-017-02301-2) \- Openspritzer: an open hardware pressure ejection system for reliably delivering picolitre volumes. [Repository](https://github.com/BadenLab/Openspritzer)
+- [Pressure-injection system](https://www.nature.com/articles/s41598-017-02301-2) \- Openspritzer: an open hardware pressure ejection system for reliably delivering picolitre volumes. [Repository](https://github.com/BadenLab/Openspritzer).
 - [Spatio-chromatic visual stimulator](https://elifesciences.org/articles/48779) \- An arbitrary-spectrum spatial visual simulator for vision research. Can be used with [QDSpy](https://github.com/eulerlab/QDSpy). [Repository](https://github.com/BadenLab/HyperspectralStimulator)
-- [Thunderdome](https://github.com/BadenLab/Thunderdome) \- An open source and versatile spatio-chromatic stimulation system for behavioural experiments for and by the lab
+- [Thunderdome](https://github.com/BadenLab/Thunderdome) \- An open source and versatile spatio-chromatic stimulation system for behavioural experiments for and by the lab.
 
 ## FOSS we use
 
@@ -46,7 +46,7 @@ Collection of software used in the lab, as well as free-open source software (FO
 - [ImageJ Fiji distribution](https://imagej.net/software/fiji/) - Distribution of [ImageJ2](https://imagej.net/software/imagej2/) for image analysis bundled with many useful plug-ins and extensive documentation.
 
 ### Modelling
-- [scikit-learn](https://scikit-learn.org/stable/#) - Predictive data analysis and modelling tools for Python built on [numpy](https://numpy.org/doc/stable/index.html), [SciPy](https://www.scipy.org/), and [Matplotlib](https://matplotlib.org/)
+- [scikit-learn](https://scikit-learn.org/stable/#) - Predictive data analysis and modelling tools for Python built on [numpy](https://numpy.org/doc/stable/index.html), [SciPy](https://www.scipy.org/), and [Matplotlib](https://matplotlib.org/).
 
 ## FOSS options/alternatives
 
@@ -61,7 +61,7 @@ Collection of software used in the lab, as well as free-open source software (FO
 - [JASP](https://jasp-stats.org/) \- SPSS-like software featuring classic and Bayesian analysis.
 - [Jamovi](https://www.jamovi.org/) \- SPSS-like, software for basic analysis, with simple plotting tools.
 - [Julia](https://julialang.org/) \- Fully fledged, general-purpose programming language well-suited for data analysis and computational stuff.
-- [R](https://www.r-project.org/) \- Coding environment geared towards statistical computing and graphing.with familiar GUI and largely compatible with MATLAB scripts and functions
+- [R](https://www.r-project.org/) \- Coding environment geared towards statistical computing and graphing with familiar GUI and largely compatible with MATLAB scripts and functions.
 
 ### Data extraction
 - [Tabula](https://tabula.technology/) \- Tool for extracting tabled data from PDFs (requires Java to run locally). 
@@ -72,23 +72,37 @@ Collection of software used in the lab, as well as free-open source software (FO
 - In Python
 	- [matplotlib](https://matplotlib.org/) \- Comprehensive library for data visualisation.
 	- [seaborn](https://seaborn.pydata.org/) \- Data visualisation library based on [matplotlib](https://matplotlib.org/) with better emphasis on aesthetics.
-- [GNU Octave](https://www.gnu.org/software/octave/) \- MATLAB-like plotting functions
+- [GNU Octave](https://www.gnu.org/software/octave/) \- Features MATLAB-like plotting functions.
 
 ### Figures
 
-- [GIMP](https://www.gimp.org/) \- Free, open-source raster graphics editor
+- [GIMP](https://www.gimp.org/) \- Free, open-source raster graphics editor.
+
+### Find articles/papers
+
+- [Unpaywall](https://unpaywall.org/) \- [Chromium](https://www.chromium.org/Home) extension which finds [legal](https://unpaywall.org/faq) open/free versions of scientific articles (e.g. in *Nature*, *Science*, etc.).
 
 ### Notetaking
 
 - [Joplin](https://joplinapp.org/) \- Free, open-source note taking app functionally similar to OneNote. Notes can be written in rich-text editor or Markdown. Synchronisation through various cloud services.
 - [Simplenote](https://simplenote.com/) \- Similar to [Joplin](https://joplinapp.org/) with in-built synchronisation, but somewhat utilitarian (e.g. no rich-text editor). 
 
+### Neuroscience
+
+- [SpikeInterface](https://open-neuroscience.com/post/spikeinterface/) \- Unified Python framework enabling spike sorting, analysis pipelines, preprocessing, postprocessing, viusualisation, and more.
+
+## Other FOSS repos
+
+- [OpenNeuroscience](https://open-neuroscience.com/) - User-driven databse of open neuroscience projects 
+- [rOpenSci](https://ropensci.org/) \- Collection of various open-source packages for R.
+
+
 ## Free software 
 
 ### Figures
 
-- [paint.net](https://www.getpaint.net/) \- Free raster graphics editor (more basic than [GIMP](https://www.gimp.org/))
+- [paint.net](https://www.getpaint.net/) \- Free raster graphics editor (more basic than [GIMP](https://www.gimp.org/)).
 
 ### PDFs
 
-- [Foxit Reader](https://www.foxit.com/pdf-reader/) \- Free, light-weight alternative to Adobe Acrobat Reader with equally powerful annotation tools
+- [Foxit Reader](https://www.foxit.com/pdf-reader/) \- Free, light-weight alternative to Adobe Acrobat Reader with equally powerful annotation tools.
