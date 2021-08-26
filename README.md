@@ -63,6 +63,10 @@ Collection of software used in the lab, as well as free-open source software (FO
 - [Julia](https://julialang.org/) \- Fully fledged, general-purpose programming language well-suited for data analysis and computational stuff.
 - [R](https://www.r-project.org/) \- Coding environment geared towards statistical computing and graphing.with familiar GUI and largely compatible with MATLAB scripts and functions
 
+### Data extraction
+- [Tabula](https://tabula.technology/) \- Tool for extracting tabled data from PDFs (requires Java to run locally). 
+- [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) \- Relatively easy-to-use tool for extracting data points from most images. Currently does not allow PDF import for Windows, but screenshots can be pasted directly. [Online version](https://apps.automeris.io/wpd/).
+
 ### Data visualisation
 
 - In Python
