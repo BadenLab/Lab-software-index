@@ -62,7 +62,6 @@ Collection of software used in the lab, as well as free-open source software (FO
 - [Jamovi](https://www.jamovi.org/) \- SPSS-like, software for basic analysis, with simple plotting tools.
 - [Julia](https://julialang.org/) \- Fully fledged, general-purpose programming language well-suited for data analysis and computational stuff.
 - [R](https://www.r-project.org/) \- Coding environment geared towards statistical computing and graphing.with familiar GUI and largely compatible with MATLAB scripts and functions
-- [xyscan](https://rhig.physics.yale.edu/~ullrich/software/xyscan/) \- 
 
 ### Data visualisation
 
