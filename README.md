@@ -1,8 +1,7 @@
 # **Lab software index**
 Collection of software used in the lab, as well as free-open source software (FOSS) and free alternatives to commonly used software
 
-## Home brew
-
+## Lab-made stuff
 *Things that were developed and employed in the lab, which might be useful to others*
 ### [Open labware](https://badenlab.org/open-labware-net/)
 
