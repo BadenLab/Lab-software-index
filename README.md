@@ -57,18 +57,19 @@ Collection of software used in the lab, as well as free-open source software (FO
     - [Pingouin](https://pingouin-stats.org/index.html) \- Advanced but easy-to-use, open-source, Python library for statistical testing and analysis.
     - [scikit-posthocs](https://scikit-posthocs.readthedocs.io/en/latest/) \- python library which provides post-hoc testing, primarily using [DataFrames](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) from [pandas](https://pandas.pydata.org/docs/index.html).
     - [statannot](https://github.com/webermarcolivier/statannot) \- Simple and effective way to add stats bars to [Seaborn](https://seaborn.pydata.org/index.html) figures (may work with [Matplotlib](https://matplotlib.org/), with in-built stats test or by passing own P-values.
-- [Julia](https://julialang.org/) \- Fully fledged, general-purpose programming language well-suited for data analysis and computational stuff.
-- [Jamovi](https://www.jamovi.org/) \- SPSS-like, software for basic analysis, with simple plotting tools.
-- [JASP](https://jasp-stats.org/) \- SPSS-like software featuring classic and Bayesian analysis.
-- [R](https://www.r-project.org/) \- Coding environment geared towards statistical computing and graphing.
 - [GNU Octave](https://www.gnu.org/software/octave/) \- MATLAB-equivalent scientific programming language with familiar GUI and largely compatible with MATLAB scripts and functions
+- [JASP](https://jasp-stats.org/) \- SPSS-like software featuring classic and Bayesian analysis.
+- [Jamovi](https://www.jamovi.org/) \- SPSS-like, software for basic analysis, with simple plotting tools.
+- [Julia](https://julialang.org/) \- Fully fledged, general-purpose programming language well-suited for data analysis and computational stuff.
+- [R](https://www.r-project.org/) \- Coding environment geared towards statistical computing and graphing.with familiar GUI and largely compatible with MATLAB scripts and functions
+- [xyscan](https://rhig.physics.yale.edu/~ullrich/software/xyscan/) \- 
 
 ### Data visualisation
 
 - In Python
 	- [matplotlib](https://matplotlib.org/) \- Comprehensive library for data visualisation.
 	- [seaborn](https://seaborn.pydata.org/) \- Data visualisation library based on [matplotlib](https://matplotlib.org/) with better emphasis on aesthetics.
-
+- [GNU Octave](https://www.gnu.org/software/octave/) \- MATLAB-like plotting functions
 
 ### Figures
 
