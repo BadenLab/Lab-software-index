@@ -41,9 +41,11 @@ Collection of software used in the lab, as well as free-open source software (FO
 
 - [QDSpy](https://github.com/eulerlab/QDSpy) \- Euler lab's software and accompanying Python library for designing and displaying stimuli.
 
-### Imaging
+### Image processing
 
 - [ImageJ Fiji distribution](https://imagej.net/software/fiji/) - Distribution of [ImageJ2](https://imagej.net/software/imagej2/) for image analysis bundled with many useful plug-ins and extensive documentation.
+- [scikit-image](https://scikit-image.org/) - Powerful Python library for image processing based on [scipy.ndimage](https://docs.scipy.org/doc/scipy/reference/ndimage.html). 
+- [OpenCV imgproc.](https://docs.opencv.org/4.5.4/d7/dbd/group__imgproc.html) - [OpenCV](https://opencv.org/)'s library for image processing. 
 
 ### Modelling
 - [scikit-learn](https://scikit-learn.org/stable/#) - Predictive data analysis and modelling tools for Python built on [numpy](https://numpy.org/doc/stable/index.html), [SciPy](https://www.scipy.org/), and [Matplotlib](https://matplotlib.org/).
