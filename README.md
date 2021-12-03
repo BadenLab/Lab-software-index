@@ -28,7 +28,9 @@ Collection of software used in the lab, as well as free-open source software (FO
 
 ### Coding
 
-- [Atom](https://atom.io/) \- Lightweight, hackable (optional) text editor with syntax, plugins, etc.
+- [Atom](https://atom.io/) \- Lightweight, fully customisable text editor with syntax, plugins, etc.
+- [Spyder](https://www.spyder-ide.org/) \- Fully featured IDE for scientific Python development, loosely inspired by MATLAB's layout. Included with [Anaconda](https://www.anaconda.com/).
+- [VSCodium](https://vscodium.com/) \- An open-sourced, freely-licensed build of Microsoft's VSCode with telemetry disabled, completely without proprietary branding and such. 
 
 ### Data analysis
 
